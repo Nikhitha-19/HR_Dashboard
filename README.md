@@ -145,19 +145,6 @@ HR-Analytics-Dashboard/
 3. Refresh the dataset if required.
 4. Use the interactive slicers to explore HR insights.
 
----
-
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshot inside the **screenshots** folder.
-
-Example:
-
-```
-screenshots/dashboard.png
-```
-
----
 
 ## 📚 Skills Demonstrated
 
